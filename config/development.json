@@ -1,0 +1,6 @@
+{
+    "name": "development-Mode",
+    "mail": {
+        "host": "development-mail"
+    }
+}
